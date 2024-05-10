@@ -1,1 +1,1 @@
-Esse é um exercíxio para o curso em video.
+Esse é um exercício para o curso em video.
